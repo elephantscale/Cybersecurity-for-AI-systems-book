@@ -35,3 +35,6 @@ https://genai.owasp.org/
 * for prompt engineering defense, https://pangea.cloud/ had a good presentation at a recent conference.  They had categorized 170 types of attacks
 * Paul Baclace:	Preventing system prompt leakage can be accomplished by examining generated text and simply searching for the system prompt (perhaps edit distance to account for different formatting).
 * 
+
+#### Malicious uses of AI by OpenAI
+* [https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-june-2025/](https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-june-2025/)
