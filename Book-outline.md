@@ -84,17 +84,17 @@ Have a go at listing your chapters in the tables below, divided into different p
 | 6.                                    | AI Model Explainability and Security |
 
 | Part 3: AI Security Architecture and Operations |  |
-| :---- | :---- |
-| 8\. |  Cybersecurity Frameworks for AI Development |
-| 9\. | Monitoring and Incident Response for AI Systems |
-| 10\. | Zero Trust Security for AI Systems |
+|:------------------------------------------------| :---- |
+| 7.                                              |  Cybersecurity Frameworks for AI Development |
+| 8.                                              | Monitoring and Incident Response for AI Systems |
+| 9.                                              | Zero Trust Security for AI Systems |
 
 | Part 4: AI Adversarial Attacks & Cloud Cybersecurity |  |
-| :---- | :---- |
-| 6\. | Adversarial Attacks on AI Systems  |
-| 11\. | Advanced Adversarial Attacks |
-| 12\. | Cloud Security for AI Systems |
-| 13\. | Ethical Considerations in AI Security  |
+|:-----------------------------------------------------| :---- |
+| 10.                                                 | Adversarial Attacks on AI Systems  |
+| 11.                                                 | Advanced Adversarial Attacks |
+| 12.                                                 | Cloud Security for AI Systems |
+| 13.                                                 | Ethical Considerations in AI Security  |
 
 # 
 
