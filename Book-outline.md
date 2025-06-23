@@ -4,9 +4,9 @@
 
 **ABOUT THE AUTHOR** 
 
-Mark Kerzner has been training internationally for the last twelve years. Over the previous two years, he has run a weekly webinar, "Advances in AI.” He also acts as a consultant who implements advanced AI for clients. Mark has multiple certifications.
+Mark Kerzner has been training internationally for the last twelve years. Over the last three years, he has run a weekly webinar, "Advances in AI.” He also acts as a consultant who implements advanced AI for clients. Mark has multiple certifications.
 
-Mark's recent clients include Highmark, Cisco, Bank of America, IRS, OpenText, Accenture, JPMC, and American Express.  
+Mark's recent clients include Cisco, Bank of America, Highmark, IRS, OpenText, Accenture, JPMC, and American Express.  
 
  Mark holds an MS in Math, an MSCS, and a JD in Law. He is also a Mensa member.
 
@@ -55,7 +55,7 @@ Consider the competing books; in particular the **description**, **table of cont
 | 7 | Ensure the robustness and resilience of AI systems against adversarial attacks.  |
 | 8 | Deploy AI applications securely in cloud and enterprise environments.  |
 
-## **The Book Structure \- Mark’s book content is below**
+## **The Book Structure**
 
 This is the Packt example. Look for real stuff by Mark \- below.
 
@@ -72,17 +72,16 @@ Each chapter should have a clear focus. Each chapter title should clearly state 
 Have a go at listing your chapters in the tables below, divided into different parts. The first table has been filled out using the example above; replace these examples with your chapters. PLEASE NOTE: Chapter titles appear on Amazon.
 
 | Part 1: Introduction to AI Security |  |
-| :---- | :---- |
-| 1\. | Overview of Cybersecurity for AI Systems |
-| 2\. |  Protecting AI Models and Algorithms  |
-| 3\. | Regulatory and Compliance Considerations in AI Security \- Steve |
+|:------------------------------------| :---- |
+| 1.                                  | Overview of Cybersecurity for AI Systems |
+| 2.                                  |  Protecting AI Models and Algorithms  |
+| 3.                                  | Regulatory and Compliance Considerations in AI Security \- Steve |
 
 | Part 2: Securing AI Data and Pipelines |  |
-| :---- | :---- |
-| 4\. | Data Security in AI Systems |
-| 5\. | Pipeline Security in AI Systems |
-|  |  |
-| 7\. | AI Model Explainability and Security |
+|:---------------------------------------| :---- |
+| 4.                                     | Data Security in AI Systems |
+| 5.                                     | Pipeline Security in AI Systems |
+| 6.                                    | AI Model Explainability and Security |
 
 | Part 3: AI Security Architecture and Operations |  |
 | :---- | :---- |
