@@ -77,17 +77,17 @@ Have a go at listing your chapters in the tables below, divided into different p
 | 2.                                  |  Protecting AI Models and Algorithms  |
 | 3.                                  | Regulatory and Compliance Considerations in AI Security \- Steve |
 
-| Part 2: Securing AI Data and Pipelines |  |
-|:---------------------------------------| :---- |
-| 4.                                     | Data Security in AI Systems |
-| 5.                                     | Pipeline Security in AI Systems |
-| 6.                                    | AI Model Explainability and Security |
+| Part 2: Securing AI Data and Pipelines |                                      |
+|:---------------------------------------|:-------------------------------------|
+| 4.                                     | Data Security in AI Systems          |
+| 5.                                     | Pipeline Security in AI Systems      |
+| 6.                                     | AI Model Explainability and Security |
 
-| Part 3: AI Security Architecture and Operations |  |
-|:------------------------------------------------| :---- |
-| 7.                                              |  Cybersecurity Frameworks for AI Development |
+| Part 3: AI Security Architecture and Operations |                                                 |
+|:------------------------------------------------|:------------------------------------------------|
+| 7.                                              | Cybersecurity Frameworks for AI Development     |
 | 8.                                              | Monitoring and Incident Response for AI Systems |
-| 9.                                              | Zero Trust Security for AI Systems |
+| 9.                                              | Zero Trust Security for AI Systems              |
 
 | Part 4: AI Adversarial Attacks & Cloud Cybersecurity |  |
 |:-----------------------------------------------------| :---- |
