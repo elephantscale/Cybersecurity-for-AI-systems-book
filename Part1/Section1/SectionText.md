@@ -20,7 +20,7 @@ build something.
   * How to build AI applications
   * How to protect them once you have build them
   * How can AI help cybersecurity.
-* Accordingly, this book includes all three. First, I outline of basically what you build,
+* Accordingly, this book includes all three. First, I outline basically what you build,
 be it AI that helps you order a pizza, talk to your documents, or make your database
 answer questions based on your data. You may be looking for a way to productize the AI system
 that you have build and scale it. Secondly, I will show you how can the hackers attack what you have built.
