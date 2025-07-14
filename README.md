@@ -8,3 +8,11 @@
 * Outline to include the new plan for the book, with build-protect pattern
 * Start with the first chapter as a candidate for early preview
 * When the first chapter is ready, get in touch with Jeremiah Grossman, RSnake, and Kim Zetter.
+
+## Authors
+
+https://www.linkedin.com/in/luciano-petreski-guiman/
+https://www.linkedin.com/in/kadhamk/
+https://www.linkedin.com/in/gregmakowski/
+https://www.linkedin.com/in/roddavison/
+https://www.linkedin.com/in/ashish-upadhyay-4a062228/
