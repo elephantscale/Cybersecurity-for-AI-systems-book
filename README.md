@@ -4,9 +4,9 @@
 * [Lab repo in Packt](https://github.com/PacktPublishing/Cybersecurity-for-AI-Systems)
 
 ## TODO
-* Outline to include the new plan for the book, with build-protect pattern
-* Start with the first chapter as a candidate for early preview
-* When the first chapter is ready, get in touch with Jeremiah Grossman, RSnake, and Kim Zetter.
+* Outline to include the new plan for the book, with build-protect pattern  
+* Start with the first chapter as a candidate for early preview  
+* When the first chapter is ready, get in touch with Jeremiah Grossman, RSnake, and Kim Zetter.  
 
 ## Authors
 
