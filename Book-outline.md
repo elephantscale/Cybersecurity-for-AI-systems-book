@@ -30,11 +30,11 @@ This book aims to equip software developers, architects, cybersecurity professio
 
 ## List the books here: 
 
-| 1  | The Developer's Playbook for Large Language Model Security: Building Secure AI Applications by Steve Wilson | Oct 15, 2024  |
-| :---: | ----- |
-| 2  | Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps by John Sotiropoulos | Jul 26, 2024 |
-| 3  | Generative AI Security: Theories and Practices, by Ken Huang , Yang Wang, et al. | Apr 6, 2024  |
-|  | How is our book different? We lead the reader from building AI apps to protecting them, using the latest information available today. |
+* The Developer's Playbook for Large Language Model Security: Building Secure AI Applications by Steve Wilson, Oct 15, 2024  
+* Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps by John Sotiropoulos, Jul 26, 2024 
+* Generative AI Security: Theories and Practices, by Ken Huang , Yang Wang, et al., Apr 6, 2024  
+* How is our book different? 
+  * We lead the reader from building AI apps to protecting them, using the latest information available today. 
 
 ##  
 
@@ -57,9 +57,14 @@ Consider the competing books; in particular the **description**, **table of cont
 
 ## **The Book Structure**
 
-This is the Packt example. Look for real stuff by Mark \- below.
-
-To help you understand the ideal structure and pacing of a good book, we’ve created a short course to help you when plotting out your book. You can find it on our community site, here: [Outline Course](https://packt.link/Kamlu). Your contact at Packt will be able to help you get set up on our community site. The course itself is short and will aid you significantly when planning your outline.
+* Each Part of the book follows the same plan:
+  * The practical problem that this Part solves
+  * The theory behind the implementation, explaining how the AI implementation works.
+  * The sample implementation is found in the lab corresponding to this part of the book.
+    * You can use the lab, usually expressed as Terraform script, and stand up the application on the cloud.
+  * Ways to attack the application based on the hacking ideas presented in the book
+  * Protection and guardrails against the attacks.
+  * Each part is thus complete with build-standup-attack-protect pattern.
 
 ## **Parts and Chapters** 
 
