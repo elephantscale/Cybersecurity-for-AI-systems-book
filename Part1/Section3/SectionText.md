@@ -1,6 +1,28 @@
 # Threat Modeling for AI
 
-## Why STRIDE no longer covers the AI attack surface  
+## STRIDE and why it no longer covers the AI attack surface  
+
+Threat modeling is well developed, known, and taught software discipline. The classic book on that is
+Threat Modeling: Designing for Security by Adam Shostack. I will give a very brief overview for you 
+to be on the same page in case you neve heard about it.
+
+Threat modeling acts as a checklist. When a pilot goes into his plane (and I know, I took a few lessons on how to fly a plane,
+and it is the most exciting occupation), he uses a checklist. It looks something like this:
+
+Before-Takeoff Checklist
+
+Auxiliary fuel pump — Off
+Flight controls — Free and correct
+Instruments and radios — Checked and set
+Landing gear position lights — Checked
+
+This example right away tells you the importance of a checklist. As my pilot manual stated, stopping in the air is not the same as stopping on main street.
+You may not forgot any item on the checklist. With threat modeling, it is the same.
+
+You have to think through every possible attack type and verify that you have protective measures for each.
+With AI and robots, it is even more important than before, because it is very easy to ask AI to help you find every hole in the defences. 
+It is not a question of whether a specific attack will happen, but when it will happen. Here is
+the list of attack classes, enumerated by it first letters.
 
 STRIDE (Spoofing · Tampering · Repudiation · Information disclosure · Denial of service · Elevation of privilege) still helps for classic web / API layers, but modern AI systems expose **five new categories of risk**:
 
