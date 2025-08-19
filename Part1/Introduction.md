@@ -66,3 +66,9 @@ to convert theory into practice.
 I will try to make the reading pleasant. In the words of immortal author of "The Golden Ass",
 "Whereunto gentle Reader if thou wilt give attendant eare, it will minister unto thee
 such delectable matter as thou shalt be contented withall." In short: reader, enjoy!
+
+### An important principle, do not say obvious things
+* As one university professor once taught me: if you can google it, I do not have to teach you that.
+That is, if your can pretty much find the information yourself, it is worthless to put it in the book.
+What makes this books really useful is that you CANNOT find these texts elsewhere. 
+* That is also a good advice if you are looking to detect pieces written by AI.
