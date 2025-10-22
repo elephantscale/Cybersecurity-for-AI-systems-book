@@ -6,13 +6,13 @@
 
 ### How this book came to be
 This book started as a request from a large multinational company for
-"AI and Cybersecurity" course. However - and you may have the same question -
+"AI and Cybersecurity" course. However, and you may have the same question -
 Who needs whom? Will AI enhance your cybersecurity posture? 
 That falls under the purview of security companies, even though 
 a software developer with an interest in AI might benefit from it.
 
 Or, should AI benefit from Cybersecurity? That would mean that someone has already built
-a large collection of AI applications, and is looking to protect them from hackers.
+A large collection of AI applications is looking to protect them from hackers.
 
 In any case, I offered the course for another large client of mine and immediately 18 
 engineers signed up. But then I was in for a surprise. Even though the course was titled
@@ -31,10 +31,21 @@ that you have built and scale it up. In any case, you want it to be secure.
  
 Secondly, I will show you how hackers can attack what you have built.
 Thirdly, I will show you what the best practices protecting your systems are, and
-why you should not rely on your home-grown ideas but keep reading this book.
+why you should not rely on your home-grown ideas, but keep reading this book.
 
 ### A very important note on creating your own AI apps
 
+You will not have to do it! Having read that my students in class did not have applications to protect,
+you might feel intimidated and think, "Am I the same?" No such thing! I have prepared these applications for you.
+The accompanying GitHub repository, <TODO insert the link>, has everything you need. This repository contains Terraform scripts
+that will build the AI applications you need. GitHub is ideally suited for that. 
+
+You will use the mechanism provided by GitHub called "Actions." So, you will use the scripts that I provide.
+Run them within GitHub, and have a ready-to-run AI application. Then you can attack them.
+
+I will also give you a short overview of the AI architecture that I use. The added benefit of this approach is that you
+will get a concise introduction to various ways of building AI apps. Here, I have to acknowledge the inspiration from 
+AIGoat Labs (https://github.com/elephantscale/AIGoat.) by Ofir Yakobi and Shir Sadon.
 
 ### What is the book based on
 
@@ -51,17 +62,17 @@ It is this teaching that proved most useful. As an ancient philosopher said,
 
 In teaching these classes, and especially those that were advertised in my client's company using the
 "open enrollment" system, I saw an interesting phenomenon. Many students would sign up for the course because
-"it sounded cool." However, when I suggested, as an exercise, to start working on protecting AI applications that the students had built,
+"it sounded cool." However, when I suggested, as an exercise, that the students start working on protecting AI applications that the students had built,
 the majority did not have anything to protect. They have not built any! Thus, I learned that I need to
 teach how to build an AI application first, and then grow to defend it. This experience has led to a
 book plan that I am describing below.
 
 ### What is in this book for you
 * The book explains, as briefly as possible but still in sufficient detail, how you would build a specific AI application.
-This may be AI talking to your documents, to your data in a database, or giving the user advice.
+This may involve AI interacting with your documents, accessing your data in a database, or providing the user with advice.
 Not every person in the world is an AI Gen Engineer, at least not yet. Having built an AI app, the reader is
 ready to enumerate the ways it can be attacked (Threat Modeling) and then proceed to building defenses. 
-* This approach makes sure that the reader is not bored and that the reader and the write are on the same page
+* This approach makes sure that the reader is not bored and that the reader and the writer are on the same page
 about the application that we will build and then protect.
 * In a class, I would follow a 50% lecture, 50% lab rule. In this book, I give enough exercises and challenges 
 to convert theory into practice.
