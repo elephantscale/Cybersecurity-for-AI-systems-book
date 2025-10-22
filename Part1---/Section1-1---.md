@@ -7,64 +7,67 @@
 ### How this book came to be
 This book started as a request from a large multinational company for
 "AI and Cybersecurity" course. However - and you may have the same question -
-who needs whom? I mean, is AI going to help your cybersecurity stance? 
-That would seem to fall under the purview of security companies, even though 
+Who needs whom? Will AI enhance your cybersecurity posture? 
+That falls under the purview of security companies, even though 
 a software developer with an interest in AI might benefit from it.
 
 Or, should AI benefit from Cybersecurity? That would mean that someone has already built
-a large collection of AI applications and is looking to protect them from hackers.
+a large collection of AI applications, and is looking to protect them from hackers.
 
 In any case, I offered the course for another large client of mine and immediately 18 
 engineers signed up. But then I was in for a surprise. Even though the course was titled
-"How to protect the AI systems you have build", very few of my students had actually
+"How to protect the AI systems you have built", very few of my students had actually
 built something.
 
 This is how I understood that the book should be about everything:
   * How to build AI applications
-  * How to protect them once you have build them
-  * How can AI help cybersecurity.
+  * How to protect them once you have built them
+  * How can AI help cybersecurity?
 
 Accordingly, this book includes all three. First, I outline basically what you build,
 be it AI that helps you order a pizza, talk to your documents, or make your database
 answer questions based on your data. You may even be looking for a way to productize the AI system
-that you have build and scale it up. In any case, you want it to be secure.
+that you have built and scale it up. In any case, you want it to be secure.
  
-Secondly, I will show you how can the hackers attack what you have built.
-Thirdly, I will show you what are the best practices protecting your systems, and
+Secondly, I will show you how hackers can attack what you have built.
+Thirdly, I will show you what the best practices protecting your systems are, and
 why you should not rely on your home-grown ideas but keep reading this book.
+
+### A very important note on creating your own AI apps
+
 
 ### What is the book based on
 
 This book is based on my long-standing interest in Cybersecurity. I infected my son with it, and
 he became a cybersecurity consultant. I follow Cybersecurity figures such as Jeremiah Grossman,
-the founder of Whitehat Security and Grugq, the “most quoted man in infosec".
+the founder of WhiteHat Security, and Grugq, the “most quoted man in infosec".
 
-For the past three years, I have been running a weekly webinar "Advances in AI." There, I would review the latest 
+For the past three years, I have been running a weekly webinar, "Advances in AI." There, I would review the latest 
 technologies that anyone interested in building AI applications can use.
 
-I have delivered multiple Cybersecurity to developers at Fortune 200 companies and government agencies.
+I have delivered multiple Cybersecurity training sessions to developers at Fortune 200 companies and government agencies.
 It is this teaching that proved most useful. As an ancient philosopher said, 
 "I have learned a lot from my teacher, more from my colleagues, but most from my students."
 
 In teaching these classes, and especially those that were advertised in my client's company using the
-"open enrollment" system, I saw an interesting phenomena. Many students would sign up for the course because
+"open enrollment" system, I saw an interesting phenomenon. Many students would sign up for the course because
 "it sounded cool." However, when I suggested, as an exercise, to start working on protecting AI applications that the students had built,
-the majority did not have anything to protect. They have not built any! Thus I learned that I need to
+the majority did not have anything to protect. They have not built any! Thus, I learned that I need to
 teach how to build an AI application first, and then grow to defend it. This experience has led to a
 book plan that I am describing below.
 
 ### What is in this book for you
-* The book explains, as briefly as possible but still in sufficient details how you would build a specific AI application.
+* The book explains, as briefly as possible but still in sufficient detail, how you would build a specific AI application.
 This may be AI talking to your documents, to your data in a database, or giving the user advice.
 Not every person in the world is an AI Gen Engineer, at least not yet. Having built an AI app, the reader is
-ready to enumerate the ways it can be attacked (Threat Modeling), and then proceed to building defenses. 
+ready to enumerate the ways it can be attacked (Threat Modeling) and then proceed to building defenses. 
 * This approach makes sure that the reader is not bored and that the reader and the write are on the same page
 about the application that we will build and then protect.
 * In a class, I would follow a 50% lecture, 50% lab rule. In this book, I give enough exercises and challenges 
 to convert theory into practice.
 * Any reader will appreciate the cops-and-robbers game that is implicit in hacking. In addition,
-I will try to make the reading pleasant. In the words of immortal author of "The Golden Ass",
-"Whereunto gentle Reader if thou wilt give attendant eare, it will minister unto thee
+I will try to make the reading pleasant. In the words of the immortal author of "The Golden Ass",
+"Whereunto gentle Reader, if thou wilt give attendant eare, it will minister unto thee
 such delectable matter as thou shalt be contented withall." In short: reader, enjoy!
 
 ### An important principle, do not say obvious things
