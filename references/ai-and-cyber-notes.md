@@ -16,6 +16,9 @@
 * [Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities](https://arxiv.org/abs/2501.19012)
 * [HarmBench](https://www.harmbench.org/)
 
+* Book
+* https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/1119642787
+
 #### Required reading at WWT (WMWare)
 
 * [AI's Best Friend ](https://www.amazon.com/Best-Friend-Robert-RSnake-Hansen/dp/B0CWKY91WM/)
