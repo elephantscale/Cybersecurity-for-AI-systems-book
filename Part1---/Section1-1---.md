@@ -81,7 +81,7 @@ I will make the reading pleasant. In the words of the immortal author of "The Go
 "Whereunto gentle Reader, if thou wilt give attendant eare, it will minister unto thee
 such delectable matter as thou shalt be contented withall." In short: reader, enjoy!
 
-### a vital principle: do not say obvious things
+### A vital principle: do not say obvious things
 * As one university professor once taught me: if you can Google it, I do not have to teach you that.
 That is, if you can find the information yourself, it is worthless to put it in the book.
 What makes this book really useful is that you CANNOT find these texts elsewhere. 
