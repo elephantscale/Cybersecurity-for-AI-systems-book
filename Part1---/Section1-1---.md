@@ -29,11 +29,11 @@ be it AI that helps you order a pizza, talk to your documents, or make your data
 answer questions based on your data. You may even be looking for a way to productize the AI system
 that you have built and scale it up. In any case, you want it to be secure.
  
-Secondly, I will show you how hackers can attack what you have built.
+Secondly, I will demonstrate how hackers can exploit what you have built.
 Thirdly, I will show you what the best practices protecting your systems are, and
 why you should not rely on your home-grown ideas, but keep reading this book.
 
-### A very important note on creating your own AI apps
+### An important note on creating your own AI apps
 
 You will not have to do it! Having read that my students in class did not have applications to protect,
 you might feel intimidated and think, "Am I the same?" No such thing! I have prepared these applications for you.
@@ -43,7 +43,7 @@ that will build the AI applications you need. GitHub is ideally suited for that.
 You will use the mechanism provided by GitHub called "Actions." So, you will use the scripts that I provide.
 Run them within GitHub, and have a ready-to-run AI application. Then you can attack them.
 
-I will also give you a short overview of the AI architecture that I use. The added benefit of this approach is that you
+I will also provide a brief overview of the AI architecture I use. The added benefit of this approach is that you
 will get a concise introduction to various ways of building AI apps. Here, I have to acknowledge the inspiration from 
 AIGoat Labs (https://github.com/elephantscale/AIGoat.) by Ofir Yakobi and Shir Sadon.
 
@@ -53,7 +53,7 @@ This book is based on my long-standing interest in Cybersecurity. I infected my 
 he became a cybersecurity consultant. I follow Cybersecurity figures such as Jeremiah Grossman,
 the founder of WhiteHat Security, and Grugq, the “most quoted man in infosec".
 
-For the past three years, I have been running a weekly webinar, "Advances in AI." There, I would review the latest 
+For the past three years, I have been hosting a weekly webinar titled "Advances in AI." There, I would review the latest 
 technologies that anyone interested in building AI applications can use.
 
 I have delivered multiple Cybersecurity training sessions to developers at Fortune 200 companies and government agencies.
@@ -77,13 +77,13 @@ about the application that we will build and then protect.
 * In a class, I would follow a 50% lecture, 50% lab rule. In this book, I give enough exercises and challenges 
 to convert theory into practice.
 * Any reader will appreciate the cops-and-robbers game that is implicit in hacking. In addition,
-I will try to make the reading pleasant. In the words of the immortal author of "The Golden Ass",
+I will make the reading pleasant. In the words of the immortal author of "The Golden Ass",
 "Whereunto gentle Reader, if thou wilt give attendant eare, it will minister unto thee
 such delectable matter as thou shalt be contented withall." In short: reader, enjoy!
 
-### An important principle: do not say obvious things
+### a vital principle: do not say obvious things
 * As one university professor once taught me: if you can Google it, I do not have to teach you that.
-That is, if you can pretty much find the information yourself, it is worthless to put it in the book.
+That is, if you can find the information yourself, it is worthless to put it in the book.
 What makes this book really useful is that you CANNOT find these texts elsewhere. 
 * Incidentally, that is also good advice if you are looking to detect pieces written by AI.
 
