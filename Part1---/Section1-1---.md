@@ -87,4 +87,12 @@ That is, if you can find the information yourself, it is worthless to put it in 
 What makes this book really useful is that you CANNOT find these texts elsewhere. 
 * Incidentally, that is also good advice if you are looking to detect pieces written by AI.
 
+  ### Tips
+  As you go through the book, you will occasionally encounter tips or actionable recommendations. I will mark it as such, **Tip!**
+  So, the first tip: in cybersecurity, taught by a wise person, even mundane everyday matters are essential, and you can learn from them.
+
 # Overview of Cybersecurity for AI Systems
+
+### A whirlwind tour of modern cyber threats
+
+The following cybersecurity tour is inspired by a talk presented by Simon Willison. But who is Simon Willison?
