@@ -114,4 +114,4 @@ on your list of people to watch. Here is how you do it.
 
 Put Simon in this list https://x.com/simonw
 
-**Tip!**As we proceed, I will provide suggestions on who to add to your X (Twitter) security list. Do not trust me. Verify them yourself first.
+**Tip!** As we proceed, I will provide suggestions on who to add to your X (Twitter) security list. Do not trust me. Verify them yourself first.
