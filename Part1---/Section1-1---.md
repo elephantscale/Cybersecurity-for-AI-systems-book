@@ -108,7 +108,7 @@ on your list of people to watch. Here is how you do it.
 
 1. On X/Twitter, click Lists on the left menu.
 2. Click New List.
-3. Give it a name: “Cybersecurity Pros”, “Cybersec Intel”, etc.
+3. Give it a name: “Cybersecurity Pros”, “Cybersec Intel”, etc. Mine is call "Sec AI".
 4. Choose Private (recommended).
 5. Add accounts: go to any profile → click the “•••” menu → Add/remove from Lists.
 
