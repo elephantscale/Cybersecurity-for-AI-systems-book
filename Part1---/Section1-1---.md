@@ -117,6 +117,6 @@ Put Simon in this list https://x.com/simonw
 **Tip!** As we proceed, I will provide suggestions on who to add to your X (Twitter) security list. Do not trust me. Verify them yourself first.
 
 Here is what my list looks like to whet your appetite
-![](../images/book000.png)
+![](../images/book001.png)
 
 And the current list is here: https://x.com/i/lists/1884478440427950554
