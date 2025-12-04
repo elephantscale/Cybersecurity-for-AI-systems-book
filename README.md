@@ -8,8 +8,9 @@
 * Start with the first chapter as a candidate for early preview  
 * When the first chapter is ready, get in touch with Jeremiah Grossman, RSnake, and Kim Zetter.
 * Describe each chapter on open source hacking projects [Mark]
-* add more / new conditions (roles, IT security, ...), cases (where, when, ...) … for the key risks, threats, … to AI models (GPT vs. Anthropic ...). [Brian]
-  * That is related to threat modeling which should be introducted early on
+* Add more / new conditions (roles, IT security, ...), cases (where, when, ...) … for the key risks, threats, … to AI models (GPT vs. Anthropic ...). [Brian]
+  * That is related to threat modeling, which should be introduced early on
+  * Add the conditions, time (Month, Year ...) when the attacks were conducted, because many attacks are not effective now.
 
 ## Authors
 
