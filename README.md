@@ -8,6 +8,7 @@
 * Start with the first chapter as a candidate for early preview  
 * When the first chapter is ready, get in touch with Jeremiah Grossman, RSnake, and Kim Zetter.
 * Describe each chapter on open source hacking projects [Mark]
+* add more / new conditions (roles, IT security, ...), cases (where, when, ...) … for the key risks, threats, … to AI models (GPT vs. Anthropic ...). [Brian]
 
 ## Authors
 
