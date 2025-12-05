@@ -4,6 +4,8 @@
 * [Lab repo in Packt](https://github.com/PacktPublishing/Cybersecurity-for-AI-Systems)
 
 ## TODO
+* Calendar for Rebecca
+* Additional section for the outline
 * Outline to include the new plan for the book, with a build-protect pattern  
 * Start with the first chapter as a candidate for early preview  
 * When the first chapter is ready, get in touch with Jeremiah Grossman, RSnake, and Kim Zetter.
