@@ -1,5 +1,7 @@
 # Protecting AI Models and Algorithms
 
+## Prompt hacking - learn from social engineering
+
 Before you start protecting AI models, you need to understand the potential attacks. The most critical area and
 The number 1 vulnerability is called "Prompt hacking." If you want to go straight to prompt hacking techniques,
 you can skip straight to the next section. Before you do that, however, I recommend that you reflect on the nature
@@ -129,3 +131,13 @@ In AI:
 
 The attacker uses the LLM’s memory and context window against itself.
 
+## Overview of prompt hacking
+
+
+## Practical prompt hacking
+
+### Michael Bargury - AI Sandboxing with Agents
+https://www.youtube.com/watch?v=uAwbWBB_rrQ
+Explanation
+This is an open source project that allows you to run multiple AI models simultaneously. 
+https://www.chatsbox.ai/
