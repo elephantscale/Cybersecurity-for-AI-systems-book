@@ -1,44 +1,37 @@
 # Delivery Calendar (4-Month Project)
 
-Start: November 24, 2025  
-End: March 24, 2026  
+Start: January 01, 2026  
+End: April 31, 2026  
 
-## Part 1 (Month 1)
+### Part 1: Introduction to AI Security
 
-| File               | Location        | Delivery Date      | Done |
-|--------------------|------------------|---------------------|------|
-| Section1-1---.md   | Part1/Section1   | December 1, 2025    | [ ] |
-| Section1-3---.md   | Part1/Section1   | December 8, 2025    | [ ] |
-| Section2-2---.md   | Part1/Section2   | December 15, 2025   | [ ] |
-| images/            | Part1/images     | December 20, 2025   | [ ] |
-| Section4 (folder)  | Part1/Section4   | December 29, 2025   | [ ] |
+| # | Topic | First draft deadline |
+|---:|---|---|
+| 1. | Overview of Cybersecurity for AI Systems | 2026-01-01 |
+| 2. | Protecting AI Models and Algorithms | 2026-01-11 |
+| 3. | Regulatory and Compliance Considerations in AI Security | 2026-01-21 |
 
-## Part 2 (Month 2)
+### Part 2: Securing AI Data and Pipelines
 
-| File        | Location | Delivery Date     | Done |
-|-------------|-----------|-------------------|------|
-| All content | Part2     | January 24, 2026  | [ ] |
+| # | Topic | First draft deadline |
+|---:|---|---|
+| 4. | Data Security in AI Systems | 2026-01-31 |
+| 5. | Pipeline Security in AI Systems | 2026-02-10 |
+| 6. | AI Model Explainability and Security | 2026-02-20 |
 
-## Part 3 (Month 3)
+### Part 3: AI Security Architecture and Operations
 
-| File        | Location | Delivery Date      | Done |
-|-------------|-----------|--------------------|------|
-| All content | Part3     | February 24, 2026  | [ ] |
+| # | Topic | First draft deadline |
+|---:|---|---|
+| 7. | Cybersecurity Frameworks for AI Development | 2026-03-02 |
+| 8. | Monitoring and Incident Response for AI Systems | 2026-03-12 |
+| 9. | Zero Trust Security for AI Systems | 2026-03-22 |
 
-## Part 4 (Month 4)
+### Part 4: AI Adversarial Attacks & Cloud Cybersecurity
 
-| File              | Location        | Delivery Date       | Done |
-|-------------------|------------------|----------------------|------|
-| All content       | Part4            | March 10, 2026       | [ ] |
-| Combined revisions| Full manuscript  | March 17, 2026       | [ ] |
-| Final formatting  | Full manuscript  | March 22, 2026       | [ ] |
-| Manuscript freeze | Full manuscript  | March 24, 2026       | [ ] |
-
-## Summary Timeline
-
-| Phase    | Date Range                 | Deliverables                   | Done |
-|----------|-----------------------------|--------------------------------|------|
-| Month 1  | Nov 24 – Dec 29, 2025       | Part 1                         | [ ] |
-| Month 2  | Dec 30 – Jan 24, 2026       | Part 2                         | [ ] |
-| Month 3  | Jan 25 – Feb 24, 2026       | Part 3                         | [ ] |
-| Month 4  | Feb 25 – Mar 24, 2026       | Part 4 + Revisions + Freeze    | [ ] |
+| # | Topic | First draft deadline |
+|---:|---|---|
+| 10. | Adversarial Attacks on AI Systems | 2026-04-01 |
+| 11. | Advanced Adversarial Attacks | 2026-04-11 |
+| 12. | Cloud Security for AI Systems | 2026-04-21 |
+| 13. | Ethical Considerations in AI Security | 2026-05-01 |
