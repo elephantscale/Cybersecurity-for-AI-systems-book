@@ -45,3 +45,7 @@ https://genai.owasp.org/
 * UK government AI Security Guidelines
 * https://genai.owasp.org/2025/01/31/owasp-ai-security-guidelines-offer-a-supporting-foundation-for-new-uk-government-ai-security-guidelines/
 
+  #### Cloudstrike
+  * Securing the AI Era with CrowdStrike Falcon AI Detection and Response
+  * 
+
