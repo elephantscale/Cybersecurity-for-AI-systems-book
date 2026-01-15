@@ -3,9 +3,9 @@
 
 ## STRIDE and why it no longer covers the AI attack surface  
 
-Threat modeling is well developed, known, and taught software discipline. The classic book on that is
+Threat modeling is a well-developed, known, and taught software discipline. The classic book on that is
 Threat Modeling: Designing for Security by Adam Shostack. I will give a very brief overview for you 
-to be on the same page in case you neve heard about it.
+to be on the same page in case you have never heard about it.
 
 Threat modeling acts as a checklist. When a pilot goes into his plane (and I know, I took a few lessons on how to fly a plane,
 and it is the most exciting occupation), he uses a checklist. It looks something like this:
