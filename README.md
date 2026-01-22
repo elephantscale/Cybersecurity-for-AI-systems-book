@@ -1,3 +1,5 @@
-# Cybersecurity-for-AI-systems (Book)
+# Cybersecurity for AI systems
 
-[Mark Kerzner](https://www.linkedin.com/in/markkerzner/)
+[What is this about?](Part1/Section1-01.md)
+
+[Authors](team.md)
