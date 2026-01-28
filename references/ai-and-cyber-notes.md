@@ -33,6 +33,7 @@ https://orca.security/resources/blog/orca-ai-goat-open-source-environment-owasp-
 
 #### GenAI OWASP
 https://genai.owasp.org/
+https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/
 
 #### Prompt engineering
 * for prompt engineering defense, https://pangea.cloud/ had a good presentation at a recent conference.  They had categorized 170 types of attacks
